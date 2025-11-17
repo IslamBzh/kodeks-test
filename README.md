@@ -44,8 +44,8 @@
 ### 3.1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/IslamBzh/kodeks-test.git
+cd kodeks-test
 ```
 
 ### 3.2. Запуск контейнеров
